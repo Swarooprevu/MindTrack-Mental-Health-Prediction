@@ -156,8 +156,3 @@ Train–test accuracy comparisons confirmed no evidence of overfitting or leakag
 - Develop a real-time dashboard for risk visualization  
 
 ---
-
-## 8. Installation  
-
-```bash
-pip install pandas numpy scikit-learn imbalanced-learn pytorch-tabnet torch matplotlib seaborn
